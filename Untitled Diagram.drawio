@@ -1,1 +1,153 @@
-<mxfile host="app.diagrams.net" modified="2021-11-21T10:23:37.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="15.7.4" etag="CRRgtyF5_SX07nl1OVj_" type="github"><diagram id="SYmnhVp9rv8nR1GGoILZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-21T11:04:09.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="zzintkgLSTRzwPlWYRvQ" version="15.7.4" type="github" pages="2">
+  <diagram id="SYmnhVp9rv8nR1GGoILZ" name="Page-1">
+    <mxGraphModel dx="1133" dy="676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fAY9mYh1nL8bLkPaGHnW-3" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="fAY9mYh1nL8bLkPaGHnW-1" target="fAY9mYh1nL8bLkPaGHnW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fAY9mYh1nL8bLkPaGHnW-1" value="Герунди&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="120" y="3" width="160" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="fAY9mYh1nL8bLkPaGHnW-5" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="fAY9mYh1nL8bLkPaGHnW-2" target="fAY9mYh1nL8bLkPaGHnW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fAY9mYh1nL8bLkPaGHnW-7" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="fAY9mYh1nL8bLkPaGHnW-2" target="fAY9mYh1nL8bLkPaGHnW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fAY9mYh1nL8bLkPaGHnW-2" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; font-size: 17.1px&quot;&gt;неличная форма&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://www.native-english.ru/grammar/english-verbs&quot; style=&quot;box-sizing: inherit ; margin: 0px ; padding: 0px ; font-size: 17.1px ; vertical-align: baseline ; outline: 0px ; color: rgb(6 , 108 , 153) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif&quot;&gt;английского глагола&lt;/a&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; font-size: 17.1px&quot;&gt;&amp;nbsp;с суффиксом&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;box-sizing: inherit ; margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; font-size: 17.1px ; vertical-align: baseline ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif&quot;&gt;-ing&lt;/b&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; font-size: 17.1px&quot;&gt;,&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="120" y="144" width="160" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="fAY9mYh1nL8bLkPaGHnW-4" value="Сушест +" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-38" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAY9mYh1nL8bLkPaGHnW-6" value="Глагол +&amp;nbsp;" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="331" y="282" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fAY9mYh1nL8bLkPaGHnW-8" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="120" relative="1" as="geometry">
+            <mxPoint x="50" y="357" as="sourcePoint" />
+            <mxPoint x="185" y="412" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fAY9mYh1nL8bLkPaGHnW-9" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="120" relative="1" as="geometry">
+            <mxPoint x="406" y="352" as="sourcePoint" />
+            <mxPoint x="242" y="412" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fAY9mYh1nL8bLkPaGHnW-10" value="Процесс&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="137" y="424" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Page-1" id="E2lUr4-Bfud-bIOtwy30">
+    <mxGraphModel dx="1325" dy="1254" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-0" />
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-1" parent="W_84dHO4UM0iyV-F-TBV-0" />
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-2" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="W_84dHO4UM0iyV-F-TBV-1" source="W_84dHO4UM0iyV-F-TBV-3" target="W_84dHO4UM0iyV-F-TBV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-3" value="Герунди -&amp;nbsp;&lt;span style=&quot;color: rgb(61 , 70 , 74) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 18px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box ; font-weight: bolder ; color: rgb(61 , 70 , 74) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 18px&quot;&gt;герундий&lt;/span&gt;&lt;span style=&quot;color: rgb(61 , 70 , 74) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 18px&quot;&gt;&amp;nbsp;— это слово, которое произошло от глагола, а&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box ; font-weight: bolder ; color: rgb(61 , 70 , 74) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 18px&quot;&gt;выступает в роли существительного&lt;/span&gt;&lt;span style=&quot;color: rgb(61 , 70 , 74) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 18px&quot;&gt;.&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="W_84dHO4UM0iyV-F-TBV-1">
+          <mxGeometry x="66" y="-74" width="214" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-4" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="W_84dHO4UM0iyV-F-TBV-1" source="W_84dHO4UM0iyV-F-TBV-6" target="W_84dHO4UM0iyV-F-TBV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-5" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="W_84dHO4UM0iyV-F-TBV-1" source="W_84dHO4UM0iyV-F-TBV-6" target="W_84dHO4UM0iyV-F-TBV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-6" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; font-size: 17.1px&quot;&gt;неличная форма&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://www.native-english.ru/grammar/english-verbs&quot; style=&quot;box-sizing: inherit ; margin: 0px ; padding: 0px ; font-size: 17.1px ; vertical-align: baseline ; outline: 0px ; color: rgb(6 , 108 , 153) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif&quot;&gt;английского глагола&lt;/a&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; font-size: 17.1px&quot;&gt;&amp;nbsp;с суффиксом&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;box-sizing: inherit ; margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; font-size: 17.1px ; vertical-align: baseline ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif&quot;&gt;-ing&lt;/b&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; font-size: 17.1px&quot;&gt;,&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="W_84dHO4UM0iyV-F-TBV-1">
+          <mxGeometry x="120" y="144" width="160" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-7" value="Сушест +" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="W_84dHO4UM0iyV-F-TBV-1">
+          <mxGeometry x="-38" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-8" value="Глагол +&amp;nbsp;" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="W_84dHO4UM0iyV-F-TBV-1">
+          <mxGeometry x="331" y="282" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-9" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="W_84dHO4UM0iyV-F-TBV-1">
+          <mxGeometry width="120" relative="1" as="geometry">
+            <mxPoint x="50" y="357" as="sourcePoint" />
+            <mxPoint x="185" y="412" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-10" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="W_84dHO4UM0iyV-F-TBV-1">
+          <mxGeometry width="120" relative="1" as="geometry">
+            <mxPoint x="406" y="352" as="sourcePoint" />
+            <mxPoint x="242" y="412" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-14" value="" style="edgeStyle=none;curved=1;rounded=1;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="W_84dHO4UM0iyV-F-TBV-1" target="W_84dHO4UM0iyV-F-TBV-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="252" y="519" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-11" value="Процесс&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="W_84dHO4UM0iyV-F-TBV-1">
+          <mxGeometry x="137" y="424" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-16" value="" style="edgeStyle=none;curved=1;rounded=1;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="W_84dHO4UM0iyV-F-TBV-1" source="W_84dHO4UM0iyV-F-TBV-13" target="W_84dHO4UM0iyV-F-TBV-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-13" value="&lt;strong style=&quot;box-sizing: inherit ; margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; font-size: 17.1px ; vertical-align: baseline ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif&quot;&gt;Отрицательная форма герундия&lt;/strong&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; font-size: 17.1px&quot;&gt;&amp;nbsp;образуется при помощи отрицательной частицы&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;box-sizing: inherit ; margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; font-size: 17.1px ; vertical-align: baseline ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif&quot;&gt;not&lt;/b&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; font-size: 17.1px&quot;&gt;, которая ставится перед формой герундия:&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="W_84dHO4UM0iyV-F-TBV-1">
+          <mxGeometry x="263" y="671" width="209" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-18" value="" style="edgeStyle=none;curved=1;rounded=1;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="W_84dHO4UM0iyV-F-TBV-1" source="W_84dHO4UM0iyV-F-TBV-15" target="W_84dHO4UM0iyV-F-TBV-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-15" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; font-size: 17.1px&quot;&gt;Герундий никогда не имеет артикля и формы множественного числа и этим он отличается от существительного. Различие между существительным с окончанием&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;box-sizing: inherit ; margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; font-size: 17.1px ; vertical-align: baseline ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif&quot;&gt;-ing&lt;/b&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; font-size: 17.1px&quot;&gt;&amp;nbsp;и герундием заключается в том, что существительное с&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;box-sizing: inherit ; margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; font-size: 17.1px ; vertical-align: baseline ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif&quot;&gt;-ing&lt;/b&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;roboto&amp;#34; , sans-serif ; font-size: 17.1px&quot;&gt;&amp;nbsp;обозначает предмет, а герундий передает процесс (-ание, -ение):&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="W_84dHO4UM0iyV-F-TBV-1">
+          <mxGeometry x="-128" y="625" width="294.5" height="216" as="geometry" />
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-20" value="" style="edgeStyle=none;curved=1;rounded=1;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="W_84dHO4UM0iyV-F-TBV-1" source="W_84dHO4UM0iyV-F-TBV-17" target="W_84dHO4UM0iyV-F-TBV-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-17" value="Образование глаголов&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="W_84dHO4UM0iyV-F-TBV-1">
+          <mxGeometry x="-35" y="944" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-25" value="" style="edgeStyle=none;curved=1;rounded=1;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="W_84dHO4UM0iyV-F-TBV-1" source="W_84dHO4UM0iyV-F-TBV-19" target="W_84dHO4UM0iyV-F-TBV-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-19" value="1&amp;nbsp;&lt;span style=&quot;color: rgb(61 , 70 , 74) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 18px&quot;&gt;Герундий можно образовать от любых глаголов, кроме модальных. Секрет образования – простое добавление&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box ; font-weight: bolder ; color: rgb(61 , 70 , 74) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 18px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(61 , 70 , 74) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 18px&quot;&gt;«-ing»: «be – be&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box ; font-weight: bolder ; color: rgb(61 , 70 , 74) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 18px&quot;&gt;ing&lt;/span&gt;&lt;span style=&quot;color: rgb(61 , 70 , 74) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 18px&quot;&gt;»; «go – go&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box ; font-weight: bolder ; color: rgb(61 , 70 , 74) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 18px&quot;&gt;ing&lt;/span&gt;&lt;span style=&quot;color: rgb(61 , 70 , 74) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 18px&quot;&gt;»; «stay – stay&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box ; font-weight: bolder ; color: rgb(61 , 70 , 74) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 18px&quot;&gt;ing&lt;/span&gt;&lt;span style=&quot;color: rgb(61 , 70 , 74) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 18px&quot;&gt;»; «talk – talk&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box ; font-weight: bolder ; color: rgb(61 , 70 , 74) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 18px&quot;&gt;ing&lt;/span&gt;&lt;span style=&quot;color: rgb(61 , 70 , 74) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 18px&quot;&gt;»; «write – writ&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box ; font-weight: bolder ; color: rgb(61 , 70 , 74) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 18px&quot;&gt;ing&lt;/span&gt;&lt;span style=&quot;color: rgb(61 , 70 , 74) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 18px&quot;&gt;», но есть нюансы:&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="W_84dHO4UM0iyV-F-TBV-1">
+          <mxGeometry x="-21" y="1069" width="223" height="234" as="geometry" />
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-28" value="" style="edgeStyle=none;curved=1;rounded=1;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="W_84dHO4UM0iyV-F-TBV-1" source="W_84dHO4UM0iyV-F-TBV-24" target="W_84dHO4UM0iyV-F-TBV-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-30" value="" style="edgeStyle=none;curved=1;rounded=1;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="W_84dHO4UM0iyV-F-TBV-1" source="W_84dHO4UM0iyV-F-TBV-24" target="W_84dHO4UM0iyV-F-TBV-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-24" value="&lt;span style=&quot;color: rgb(61 , 70 , 74) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 18px&quot;&gt;2 основных способа перевода герундия:&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="W_84dHO4UM0iyV-F-TBV-1">
+          <mxGeometry x="20" y="1366" width="146.5" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-26" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="W_84dHO4UM0iyV-F-TBV-1">
+          <mxGeometry width="120" relative="1" as="geometry">
+            <mxPoint x="-3" y="1254" as="sourcePoint" />
+            <mxPoint x="117" y="1254" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-27" value="&lt;span style=&quot;color: rgb(61 , 70 , 74) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 18px&quot;&gt;1) существительное, которое передает процесс: painting – рисование, reading – чтение:&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="W_84dHO4UM0iyV-F-TBV-1">
+          <mxGeometry x="-178" y="1485" width="176" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-32" value="" style="edgeStyle=none;curved=1;rounded=1;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="W_84dHO4UM0iyV-F-TBV-1" source="W_84dHO4UM0iyV-F-TBV-29" target="W_84dHO4UM0iyV-F-TBV-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-29" value="&lt;span style=&quot;color: rgb(61 , 70 , 74) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 18px&quot;&gt;2) глагол, чаще всего неопределенной формы:&amp;nbsp;painting – рисовать, reading – читать, а иногда, если есть предлог, деепричастием&amp;nbsp;— рисуя, читая.&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="W_84dHO4UM0iyV-F-TBV-1">
+          <mxGeometry x="160" y="1499" width="266" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="W_84dHO4UM0iyV-F-TBV-31" value="Остальныц 2 тем : 1 ФОрма 2 Употробление&amp;nbsp;&lt;br&gt;https://grammarway.com/ru/gerund&lt;br&gt;https://www.englishdom.com/blog/gerundij-v-anglijskom-yazyke/" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="W_84dHO4UM0iyV-F-TBV-1">
+          <mxGeometry x="-18" y="1792" width="421" height="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
